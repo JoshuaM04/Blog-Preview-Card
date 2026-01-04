@@ -25,6 +25,7 @@
     }
     .blogPost {
       width: fit-content;
+      height: fit-content;
       text-align: left;
       background-color: hsl(0, 0%, 100%);
       border-style: solid;
@@ -34,8 +35,30 @@
     #illustration {
       border-radius: 10px;
     }
-    h3 {
+    h4.subtitle {
+      width: fit-content;
       background-color: hsl(47, 88%, 63%);
+      border-radius: 5px;
+      padding: 5px;
+    }
+    .paragraph {
+      width: 330px;
+    }
+    ul {
+      width: fit-content;
+      display: inline-flex;
+      margin: 0;
+      padding: 0;
+      list-style-type: none;
+      border-style: clear;
+      justify-content: center;
+      align-items: center;
+    }
+    .avatar {
+      width: 30px;
+    }
+    li {
+      margin-right: 10px;
     }
   </style>
 </head>
@@ -43,7 +66,16 @@
   <div class="container">
     <div class="blogPost">
       <img id="illustration" src="assets/images/illustration-article.svg" />
-      <h3> Learning </h3>
+      <h4 class="subtitle"> Learning </h4>
+      <p> Published 21 Dec 2023 </p>
+      <h2> HTML & CSS foundations </h2>
+      <p class="paragraph">
+        These languages are the backbone of every website, defining structure, content, and presentation.
+      </p>
+      <ul>
+        <li><img class="avatar" src="assets/images/image-avatar.webp" /></li>
+        <li><h4> Greg Hooper </h4></li>
+      </ul>
     </div>
   </div>
   
