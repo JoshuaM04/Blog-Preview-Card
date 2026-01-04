@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://blog-preview-card-jm04.vercel.app/]
-- Live Site URL: [https://blog-preview-card-jm04.vercel.app/]
+- Solution URL: [https://blog-preview-card01-jm04.vercel.app/]
+- Live Site URL: [https://blog-preview-card01-jm04.vercel.app/]
 
 ## My process
 
@@ -77,6 +77,6 @@ In future projects I would like to focus on making my webpage more adaptable to 
 
 ## Author
 
-- Website - [Joshua Martinez](https://blog-preview-card-jm04.vercel.app/)
+- Website - [Joshua Martinez](https://blog-preview-card01-jm04.vercel.app/)
 - Frontend Mentor - [@JoshuaM04](https://www.frontendmentor.io/profile/JoshuaM04)
 
